@@ -1,0 +1,82 @@
+{
+  "John": {
+    "grades": {
+      "math": {
+        "grade": "C+",
+        "points": 2.3
+      },
+      "english": {
+        "grade": "A-",
+        "points": 3.7
+      },
+      "science": {
+        "grade": "C+",
+        "points": 2.3
+      },
+      "history": {
+        "grade": "B",
+        "points": 3
+      }
+    }
+  },
+  "Jane": {
+    "grades": {
+      "math": {
+        "grade": "F",
+        "points": 0
+      },
+      "english": {
+        "grade": "C+",
+        "points": 2.3
+      },
+      "science": {
+        "grade": "A-",
+        "points": 3.7
+      },
+      "history": {
+        "grade": "A",
+        "points": 4
+      }
+    }
+  },
+  "Dave": {
+    "grades": {
+      "math": {
+        "grade": "F",
+        "points": 0
+      },
+      "english": {
+        "grade": "F",
+        "points": 0
+      },
+      "science": {
+        "grade": "C-",
+        "points": 1.7
+      },
+      "history": {
+        "grade": "A-",
+        "points": 3.7
+      }
+    }
+  },
+  "Tony": {
+    "grades": {
+      "math": {
+        "grade": "A",
+        "points": 4
+      },
+      "english": {
+        "grade": "B-",
+        "points": 2.7
+      },
+      "science": {
+        "grade": "C+",
+        "points": 2.3
+      },
+      "history": {
+        "grade": "B+",
+        "points": 3.3
+      }
+    }
+  }
+}
